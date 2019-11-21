@@ -17,3 +17,7 @@
 
 <img src="mediola-node-red.png"></img>
 </p>
+
+contact: <br>
+andreas@stawimedia.de<br>
+https://www.cyberandi.de
