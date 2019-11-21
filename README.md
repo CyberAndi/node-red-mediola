@@ -5,6 +5,7 @@
 <p></p>
 <p><h3>Node-Red Function and Flow for mediola (a.i.o.) Gateways for Smarthome</h3></p> 
 <p>
+    
 1.  Create Enject-Node with 1 Minutes Intervall
 
 2.  Insert a http-request-node with Get-Action
