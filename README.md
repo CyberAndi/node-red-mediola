@@ -1,5 +1,6 @@
 # node-red-mediola
-Node-Red Function and Flow for mediola Hubs
+Node-Red Function and Flow for mediola (a.i.o.) Gateways for Smarthome https://www.mediola.com
+
 
 1.  Create Enject-Node with 1 Minutes Intervall
 
