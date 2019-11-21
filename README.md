@@ -16,8 +16,9 @@
 4.  Insert a Function Node and put the source-code of function.json in
 
 <img src="mediola-node-red.png"></img>
-</p>
+
+#
 
 contact: <br>
 andreas@stawimedia.de<br>
-https://www.cyberandi.de
+https://www.cyberandi.de</p>
