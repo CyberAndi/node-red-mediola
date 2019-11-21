@@ -1,0 +1,1 @@
+[{"id":"7128c084.75b31","type":"function","z":"51466e46.72aaf8","name":"Bad Licht an Mediola","func":"msg.payload = \"eyJYQ19GTkMiOiJTZW5kUk0iLCJkZXZpY2UiOjQxLCJjb21tYW5kIjp7InZhbHVlIjoib24ifX0=\"\nreturn msg;","outputs":1,"noerr":0,"x":360,"y":440,"wires":[["87118c54.9bf14"]]}]
