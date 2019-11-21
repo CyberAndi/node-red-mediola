@@ -8,6 +8,6 @@ Node-Red Function and Flow for mediola Hubs
 
 3.  Replace the IP-Adress, Username and Password
 
-4.  Insert a Function Node and insert the source-code of the flow
+4.  Insert a Function Node and put the source-code of function.json in
 
 <img src="mediola-node-red.png"></img>
