@@ -1,7 +1,8 @@
 # node-red-mediola
 
-<p><a href="https://www.mediola.com"><img src="mediola-logo-trans.png"></a>
+<p><a href="https://www.mediola.com"><img src="mediola-logo-trans.png" width=179px></a>
 </p>
+<p></p>
 <p><h3>Node-Red Function and Flow for mediola (a.i.o.) Gateways for Smarthome</h3></p> 
 <p>
 1.  Create Enject-Node with 1 Minutes Intervall
