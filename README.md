@@ -1,10 +1,9 @@
 # node-red-mediola
-<a href="https://www.mediola.com"><img src="mediola-logo-trans.png"></a>
 
-
-Node-Red Function and Flow for mediola (a.i.o.) Gateways for Smarthome 
-
-
+<p><a href="https://www.mediola.com"><img src="mediola-logo-trans.png"></a>
+</p>
+<p><h3>Node-Red Function and Flow for mediola (a.i.o.) Gateways for Smarthome</h3></p> 
+<p>
 1.  Create Enject-Node with 1 Minutes Intervall
 
 2.  Insert a http-request-node with Get-Action
@@ -15,3 +14,4 @@ Node-Red Function and Flow for mediola (a.i.o.) Gateways for Smarthome
 4.  Insert a Function Node and put the source-code of function.json in
 
 <img src="mediola-node-red.png"></img>
+</p>
